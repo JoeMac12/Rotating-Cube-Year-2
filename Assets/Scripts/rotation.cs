@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Rotating cube test script
 public class rotation : MonoBehaviour
 {
     public float rotationspeedX = 10f;
